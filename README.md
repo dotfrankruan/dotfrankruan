@@ -1,5 +1,5 @@
 ## Hello World
-Hello, my name is Frank Ruan, a student who currently resides in People's Republic of China.
+Hello, my name is Frank Ruan, a student who currently resides in the People's Republic of China.
 ```
 ░▒▓████████▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░      ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓███████▓▒░
 ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
@@ -9,5 +9,28 @@ Hello, my name is Frank Ruan, a student who currently resides in People's Republ
 ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
 ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
 ```
-## Membership
+### Academic Status
+Currently in senior high school.
+### Interests
+Computer Science advocate, and considering Finance (specifically Fintech). Do like mathematics. 
+### Spoken Language
+Chinese (Simplified/Traditional), English (United States)
+#### Nationality
+People's Republic of China
+### Politics
+Hate politics and I personally will **NOT** comment on **ANY** current political events.
+### Programming Language
+Use Python for most projects because it's rather easier than others. Now learning Golang and thinking of switching to Rust or C.
+### Operating System
+Currently on Ubuntu Jammy, production server is Debian bookworm. The workstation will be switched to macOS no later than mid-2026.
+### Membership
 ![](https://static.fsf.org/nosvn/associate/crm/5939861.png)
+### Sponsoring
+<a href="https://patreon.com/FrankRuan"><img src="https://static.frank-ruan.com/picgo/2024/04/99d77aa15655a475544fd91d4b2bfed741adcfc342ceb910bb8b4a8a40e2c1d7.svg" /></a>
+<br/>
+**Bitcoin (BTC)**: `bc1q28mj7fprya8pjqwq7xqaq5dyyjtckf0lkx2zc8`<br/>
+**Ethereum (ETH)**: `0xd9da44Eaeb90f5457AF92C6Ac590Dea6123A4e2C`<br/>
+**Polygon (MATIC)**: `0xd9da44Eaeb90f5457AF92C6Ac590Dea6123A4e2C`<br/>
+**Solana (SOL)**: `543Uwjwphsi2iSRp8d8DxyUvQ8E47Pg1S2MNwyiEEpV3`<br/>
+**Toncoin (TON)**: `UQCINlsksjonzCi5nesCK5pr_t23ulcMO-2Ln6UoUnkiuV76`<br/>
+**Monero (XMR)**: `43oTPw1Vxdv74xgYW8w8mn7Hopk2kq4vWKLvWhy2ZFvqEDBBtpPDB9nCJB7q6s1hGkSX25SKixViEY3i72mmaF7HE53UeQg`

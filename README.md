@@ -21,9 +21,11 @@ People's Republic of China
 Hate politics and I personally will **NOT** comment on **ANY** current political events.
 ### Programming Language
 Use Python for most projects because it's rather easier than others. Now learning Golang and thinking of switching to Rust or C.
+
 <figure><embed src="https://wakatime.com/share/@018e036c-290f-44de-b9fb-fd91bfe67f96/c57e95fe-9382-4de0-a568-2c9d446aacd6.svg"></embed></figure>
+
 ### Operating System
-Currently on Ubuntu Jammy, production server is Debian bookworm. The workstation will be switched to macOS no later than mid-2026.
+Currently on Debian bookworm. The workstation will be switched to macOS no later than mid-2026.
 ### Membership
 ![](https://static.fsf.org/nosvn/associate/crm/5939861.png)
 ### Sponsoring

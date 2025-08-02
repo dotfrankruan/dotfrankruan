@@ -1,14 +1,5 @@
 ## Hello World
 Hello, my name is Frank Ruan, a student who currently resides in the People's Republic of China.
-```
-░▒▓████████▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░      ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓███████▓▒░
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
-░▒▓██████▓▒░ ░▒▓███████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░       ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
-```
 ### Academic Status
 Currently in senior high school.
 ### Interests
@@ -17,8 +8,6 @@ Computer Science advocate, and considering Finance (specifically Fintech). Do li
 Chinese (Simplified/Traditional), English (United States)
 #### Nationality
 People's Republic of China
-### Politics
-Hate politics and I personally will **NOT** comment on **ANY** current political events.
 ### Programming Language
 Use Python for most projects because it's rather easier than others. Now learning Golang and thinking of switching to Rust or C.
 
@@ -29,7 +18,7 @@ Currently on Debian bookworm. The workstation will be switched to macOS no later
 ### Membership
 ![](https://static.fsf.org/nosvn/associate/crm/5939861.png)
 ### Sponsoring
-<a href="https://patreon.com/FrankRuan"><img src="https://static.frank-ruan.com/picgo/2024/04/99d77aa15655a475544fd91d4b2bfed741adcfc342ceb910bb8b4a8a40e2c1d7.svg" /></a>
+Head to my <a href="https://donate.frank-ruan.com" target="_blank">donation website</a> for fiat donation. See below for cryptocurrency donations.
 <br/>
 **Bitcoin (BTC)**: `bc1q28mj7fprya8pjqwq7xqaq5dyyjtckf0lkx2zc8`<br/>
 **Ethereum (ETH)**: `0xd9da44Eaeb90f5457AF92C6Ac590Dea6123A4e2C`<br/>
